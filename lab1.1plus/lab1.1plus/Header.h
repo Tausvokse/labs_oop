@@ -7,10 +7,6 @@ using namespace std;
 class line {
 public:
 	float xA, yA, xB, yB;
-	char choice;
-	int dia;
-	bool oper4;
-	float check(float N);
 	float dovzhina();
 	float kyt();
 };
