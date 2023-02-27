@@ -1,5 +1,0 @@
-﻿  line.cpp
-C:\Users\parho\source\repos\lab1.2plus\lab1.2plus\line.cpp(4,13): warning C4244: return: преобразование "double" в "float", возможна потеря данных
-  main.cpp
-  Создание кода...
-  lab1.2plus.vcxproj -> C:\Users\parho\source\repos\lab1.2plus\x64\Debug\lab1.2plus.exe
