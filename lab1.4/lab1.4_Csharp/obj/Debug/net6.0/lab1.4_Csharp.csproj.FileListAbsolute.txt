@@ -1,0 +1,15 @@
+C:\Users\parho\source\repos\lab1.4\lab1.4_Csharp\obj\Debug\net6.0\lab1.4_Csharp.csproj.AssemblyReference.cache
+C:\Users\parho\source\repos\lab1.4\lab1.4_Csharp\obj\Debug\net6.0\lab1.4_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parho\source\repos\lab1.4\lab1.4_Csharp\obj\Debug\net6.0\lab1.4_Csharp.AssemblyInfoInputs.cache
+C:\Users\parho\source\repos\lab1.4\lab1.4_Csharp\obj\Debug\net6.0\lab1.4_Csharp.AssemblyInfo.cs
+C:\Users\parho\source\repos\lab1.4\lab1.4_Csharp\obj\Debug\net6.0\lab1.4_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\parho\source\repos\lab1.4\lab1.4_Csharp\bin\Debug\net6.0\lab1.4_Csharp.exe
+C:\Users\parho\source\repos\lab1.4\lab1.4_Csharp\bin\Debug\net6.0\lab1.4_Csharp.deps.json
+C:\Users\parho\source\repos\lab1.4\lab1.4_Csharp\bin\Debug\net6.0\lab1.4_Csharp.runtimeconfig.json
+C:\Users\parho\source\repos\lab1.4\lab1.4_Csharp\bin\Debug\net6.0\lab1.4_Csharp.dll
+C:\Users\parho\source\repos\lab1.4\lab1.4_Csharp\bin\Debug\net6.0\lab1.4_Csharp.pdb
+C:\Users\parho\source\repos\lab1.4\lab1.4_Csharp\obj\Debug\net6.0\lab1.4_Csharp.dll
+C:\Users\parho\source\repos\lab1.4\lab1.4_Csharp\obj\Debug\net6.0\refint\lab1.4_Csharp.dll
+C:\Users\parho\source\repos\lab1.4\lab1.4_Csharp\obj\Debug\net6.0\lab1.4_Csharp.pdb
+C:\Users\parho\source\repos\lab1.4\lab1.4_Csharp\obj\Debug\net6.0\lab1.4_Csharp.genruntimeconfig.cache
+C:\Users\parho\source\repos\lab1.4\lab1.4_Csharp\obj\Debug\net6.0\ref\lab1.4_Csharp.dll
