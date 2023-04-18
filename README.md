@@ -14,4 +14,7 @@
 >> Only C# in lab1.4
 
 >LAB 2.1:  
+>> C++ and C# in one soultion lab2.1
+
+>LAB 2.2:  
 >> Later...
