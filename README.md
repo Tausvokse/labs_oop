@@ -17,4 +17,4 @@
 >> C++ and C# in one soultion lab2.1
 
 >LAB 2.2:  
->> Later...
+>> C# in one soultion lab2.2
