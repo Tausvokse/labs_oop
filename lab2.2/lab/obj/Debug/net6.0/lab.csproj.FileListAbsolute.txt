@@ -1,0 +1,15 @@
+C:\Users\parho\source\repos\lab2.3-2.4\lab\bin\Debug\net6.0\lab.exe
+C:\Users\parho\source\repos\lab2.3-2.4\lab\bin\Debug\net6.0\lab.deps.json
+C:\Users\parho\source\repos\lab2.3-2.4\lab\bin\Debug\net6.0\lab.runtimeconfig.json
+C:\Users\parho\source\repos\lab2.3-2.4\lab\bin\Debug\net6.0\lab.dll
+C:\Users\parho\source\repos\lab2.3-2.4\lab\bin\Debug\net6.0\lab.pdb
+C:\Users\parho\source\repos\lab2.3-2.4\lab\obj\Debug\net6.0\lab.csproj.AssemblyReference.cache
+C:\Users\parho\source\repos\lab2.3-2.4\lab\obj\Debug\net6.0\lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parho\source\repos\lab2.3-2.4\lab\obj\Debug\net6.0\lab.AssemblyInfoInputs.cache
+C:\Users\parho\source\repos\lab2.3-2.4\lab\obj\Debug\net6.0\lab.AssemblyInfo.cs
+C:\Users\parho\source\repos\lab2.3-2.4\lab\obj\Debug\net6.0\lab.csproj.CoreCompileInputs.cache
+C:\Users\parho\source\repos\lab2.3-2.4\lab\obj\Debug\net6.0\lab.dll
+C:\Users\parho\source\repos\lab2.3-2.4\lab\obj\Debug\net6.0\refint\lab.dll
+C:\Users\parho\source\repos\lab2.3-2.4\lab\obj\Debug\net6.0\lab.pdb
+C:\Users\parho\source\repos\lab2.3-2.4\lab\obj\Debug\net6.0\lab.genruntimeconfig.cache
+C:\Users\parho\source\repos\lab2.3-2.4\lab\obj\Debug\net6.0\ref\lab.dll

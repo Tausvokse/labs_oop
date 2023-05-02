@@ -1,6 +1,0 @@
-﻿  BaseString.cpp
-C:\Users\parho\source\repos\lab1.5\lab1.5plusplus\BaseString.cpp(10,24): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
-  LetterString.cpp
-  Program.cpp
-  Создание кода...
-  lab1.5plusplus.vcxproj -> C:\Users\parho\source\repos\lab1.5\x64\Debug\lab1.5plusplus.exe
